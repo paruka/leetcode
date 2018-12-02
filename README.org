@@ -1,0 +1,5 @@
+* LeetCode
+
+| Issue | Title   | Solution | Difficulty |
+|-------+---------+----------+------------|
+|     1 | [[https://leetcode.com/problems/two-sum/][Two Sum]] | [[file:cc/twoSum.cc][Two Sum]]  | Easy       |
