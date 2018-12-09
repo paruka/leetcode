@@ -1,5 +1,6 @@
 * LeetCode
 
-| Issue | Title   | Solution | Difficulty |
-|-------+---------+----------+------------|
-|     1 | [[https://leetcode.com/problems/two-sum/][Two Sum]] | [[file:cc/twoSum.cc][Two Sum]]  | Easy       |
+| Issue | Title           | Solution        | Difficulty |
+|-------+-----------------+-----------------+------------|
+|     1 | [[https://leetcode.com/problems/two-sum/][Two Sum]]         | [[file:cc/twoSum.cc][Two Sum]]         | Easy       |
+|     2 | [[https://leetcode.com/problems/add-two-numbers/][Add Two Numbers]] | [[file:cc/addTwoNumbers.cc][Add Two Numbers]] | Medium     |
